@@ -1114,7 +1114,7 @@ def main():
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
-  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬  👑 [Q̬̂U͎E͎E͎N͎](https://t.me/queen_officialchnl) 👑↢╣[♡_♡]╠♨️
+♨️𝗠𝗔𝗗𝗘 𝗕𝗬  👑 [Q̬̂U͎E͎E͎N͎](https://t.me/queen_officialchnl)👑 ♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
