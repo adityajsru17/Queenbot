@@ -47,7 +47,7 @@
 <a href="https://telegram.me/wrostdemon"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/xytra_zn"><img src="https://img.shields.io/badge/-xytra-20%papa-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/xytra_zn"><b>XYTRA PAPA</b>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
