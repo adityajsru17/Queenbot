@@ -50,7 +50,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://HEROKU:HEROKU@cluster0.cjcl8a8.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://queenxytra:queenxytra@cluster0.ivuxz80.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
