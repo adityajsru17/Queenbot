@@ -337,10 +337,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/the_vip_boy"
+                                "ᴄʜᴀɴɴᴇʟ", url="https://t.me/queen_officialchnl"
                             ),
                             InlineKeyboardButton(
-                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/vip_creators"
+                                "sᴜᴘᴘᴏʀᴛ", url="https://t.me/queen_supportgroup"
                             ),
                         ],
                         [
@@ -363,10 +363,10 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/the_vip_boy"
+                                "ᴄʜᴀɴɴᴇʟ", url="https://t.me/queen_officialchnl"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/vip_creators"
+                                "sᴜᴘᴘᴏʀᴛ", url="https://t.me/queen_supportgroup"
                             ),
                         ],
                         [
