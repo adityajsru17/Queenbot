@@ -1,3 +1,4 @@
+from pyrogram import Client
 import logging
 import time
 
